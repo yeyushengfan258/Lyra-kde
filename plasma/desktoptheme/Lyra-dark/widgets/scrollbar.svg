@@ -35,12 +35,12 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="984"
+     inkscape:window-height="978"
      id="namedview256"
      showgrid="true"
      inkscape:zoom="19.265307"
-     inkscape:cx="14.436215"
-     inkscape:cy="29.692635"
+     inkscape:cx="32.591925"
+     inkscape:cy="36.276318"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -283,7 +283,7 @@
        x="43"
        transform="matrix(1.3333,0,0,1,-44.333,-13)" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path52"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -307,7 +307,7 @@
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path59"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -331,7 +331,7 @@
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path66"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -355,7 +355,7 @@
        x="33"
        transform="matrix(-1.3333,0,0,1,58.333,-13)" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path73"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -379,7 +379,7 @@
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path80"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -403,7 +403,7 @@
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path87"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -427,7 +427,7 @@
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path94"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -451,7 +451,7 @@
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path101"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -773,7 +773,7 @@
        x="38"
        class="ColorScheme-Text" />
     <rect
-       style="color:#fcfcfc;opacity:0.25;fill:#000000"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000"
        id="rect188"
        height="10"
        width="1"
@@ -799,7 +799,7 @@
        x="43"
        transform="matrix(1.3333,0,0,1,-44.333,-13)" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path195"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -823,7 +823,7 @@
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path202"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -847,7 +847,7 @@
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path209"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -871,7 +871,7 @@
        x="33"
        transform="matrix(-1.3333,0,0,1,58.333,-13)" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path216"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -895,7 +895,7 @@
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path223"
        d="m 9,3 v 4 h 4 C 13,4.784 11.216,3 9,3 Z"
@@ -919,7 +919,7 @@
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path230"
        d="m 9,21 v -4 h 4 c 0,2.216 -1.784,4 -4,4 z"
@@ -943,7 +943,7 @@
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path237"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -967,7 +967,7 @@
        d="m 9,7 v 10 h 4 V 7 Z"
        class="ColorScheme-Text" />
     <path
-       style="color:#fcfcfc;opacity:0.25;fill:#000000;fill-rule:evenodd"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000;fill-rule:evenodd"
        inkscape:connector-curvature="0"
        id="path244"
        d="m 9,7 v 10 h 4 V 7 Z"
@@ -986,7 +986,7 @@
        x="38"
        class="ColorScheme-Text" />
     <rect
-       style="color:#fcfcfc;opacity:0.25;fill:#000000"
+       style="color:#fcfcfc;opacity:0.5;fill:#000000"
        id="rect249"
        height="10"
        width="1"

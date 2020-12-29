@@ -1,5 +1,5 @@
 
-Lyra-dark sddm theme for KDE Plasma desktop.
+Lyra sddm theme for KDE Plasma desktop.
 
 ## Installation
 

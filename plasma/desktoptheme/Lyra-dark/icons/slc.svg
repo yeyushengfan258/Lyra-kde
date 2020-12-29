@@ -71,7 +71,7 @@
        color="#dedede"
        fill="currentColor"
        id="path7"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="slc-share"
@@ -90,7 +90,7 @@
        color="#dedede"
        fill="currentColor"
        id="path12"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="slc-connect"
@@ -109,6 +109,6 @@
        color="#dedede"
        fill="currentColor"
        id="path17"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
 </svg>

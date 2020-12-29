@@ -35,14 +35,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="941"
+     inkscape:window-height="985"
      id="namedview14"
      showgrid="true"
      inkscape:zoom="7.9999996"
      inkscape:cx="29.818013"
      inkscape:cy="5.1139898"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg12"
      inkscape:snap-bbox="true"
@@ -143,12 +143,12 @@
        id="g887"
        transform="translate(-36,13)">
       <path
-         style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 40,-6 5,9 h 19 l -5,-9 z"
          id="path879"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 48,6 3.333333,6 H 64 L 60.666667,6 Z"
          id="path883"
          sodipodi:nodetypes="ccccc" />
@@ -166,12 +166,12 @@
        id="g919"
        transform="translate(-24,-1)">
       <path
-         style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:1.125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:1.125px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 65,15 3.75,7 H 83 l -3.75,-7 z"
          id="path889"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.776324px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#505050;fill-opacity:1;stroke:none;stroke-width:0.776324px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 70.824865,24 73.5,29 H 83 l -2.675135,-5 z"
          id="path909"
          sodipodi:nodetypes="ccccc" />

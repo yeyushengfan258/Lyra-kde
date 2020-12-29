@@ -37,8 +37,8 @@ prompt () {
 
 # Checking for root access and proceed if it is present
 if [ "$UID" -eq "$ROOT_UID" ]; then
-  prompt -i "\n * Install Lyra-dark in ${THEME_DIR}... "
-  cp -r "${REO_DIR}/Lyra-dark" "${THEME_DIR}"
+  prompt -i "\n * Install Lyra in ${THEME_DIR}... "
+  cp -r "${REO_DIR}/Lyra" "${THEME_DIR}"
   # Success message
   prompt -s "\n * All done!"
 else

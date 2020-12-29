@@ -27,17 +27,20 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox="true"
      inkscape:document-rotation="0"
      inkscape:current-layer="svg67"
      inkscape:window-maximized="1"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="6.3877968"
-     inkscape:cx="-65.350381"
-     inkscape:zoom="2.6818182"
+     inkscape:cy="58.829984"
+     inkscape:cx="35.66824"
+     inkscape:zoom="7.5853273"
      showgrid="true"
      id="namedview69"
-     inkscape:window-height="970"
+     inkscape:window-height="1001"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -93,7 +96,7 @@
        enable-background="new"
        fill="#dedede"
        id="path12"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="media-skip-forward"
@@ -112,7 +115,7 @@
        enable-background="new"
        fill="#dedede"
        id="path17"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="media-skip-backward"
@@ -131,7 +134,7 @@
        enable-background="new"
        fill="#dedede"
        id="path22"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="media-seek-forward"
@@ -150,7 +153,7 @@
        enable-background="new"
        fill="#dedede"
        id="path27"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="media-seek-backward"
@@ -169,7 +172,7 @@
        enable-background="new"
        fill="#dedede"
        id="path32"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="media-eject"
@@ -189,7 +192,7 @@
        display="block"
        fill="#dedede"
        id="path37"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="media-playback-pause"
@@ -208,7 +211,7 @@
        enable-background="new"
        fill="#dedede"
        id="path42"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="media-playback-start"
@@ -227,10 +230,10 @@
        enable-background="new"
        fill="#dedede"
        id="path47"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
-     transform="translate(0.1407986,-0.400249)"
+     transform="translate(0.1407986,4.5997507)"
      id="media-playback-stopped">
     <rect
        style="color:#dedede;stroke-width:1.5"
@@ -246,20 +249,20 @@
        id="g960"
        transform="translate(-1.1407986,-18.599751)">
       <circle
-         r="7.5"
+         r="8.4375"
          cy="58"
          cx="61"
          id="path904"
-         style="opacity:1;fill:none;stroke:#eaeaea;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:none;stroke:#fbfbfb;stroke-width:1.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="ccccc"
          d="m 58,55 v 6 h 6 v -6 z"
-         style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect914" />
     </g>
   </g>
   <g
-     transform="translate(0.1412506,-0.400249)"
+     transform="translate(0.1412506,4.5997507)"
      id="media-playback-playing">
     <rect
        style="color:#dedede;stroke-width:1.5"
@@ -275,20 +278,20 @@
        id="g956"
        transform="translate(-1.1412506,-18.599751)">
       <circle
-         style="opacity:1;fill:none;stroke:#eaeaea;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:none;stroke:#fbfbfb;stroke-width:1.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle922"
          cx="37"
          cy="58"
-         r="7.5" />
+         r="8.4375" />
       <path
          sodipodi:nodetypes="cccc"
          d="m 35,55 v 6 l 4,-3 z"
-         style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect932" />
     </g>
   </g>
   <g
-     transform="translate(0.14090031,-0.400249)"
+     transform="translate(0.14090031,4.5997507)"
      id="media-playback-paused">
     <rect
        style="color:#dedede;stroke-width:1.5"
@@ -304,15 +307,15 @@
        id="g952"
        transform="translate(-0.14090031,-18.599751)">
       <circle
-         r="7.5"
+         r="8.4375"
          cy="58"
          cx="12"
          id="circle936"
-         style="opacity:1;fill:none;stroke:#eaeaea;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:none;stroke:#fbfbfb;stroke-width:1.125;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:nodetypes="cccccccccc"
          d="m 9,55 v 6 h 2 v -6 z m 4,0 v 6 h 2 v -6 z"
-         style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect946" />
     </g>
   </g>

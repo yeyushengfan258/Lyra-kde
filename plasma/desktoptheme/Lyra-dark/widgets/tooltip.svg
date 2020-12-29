@@ -36,14 +36,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="941"
+     inkscape:window-height="978"
      id="namedview204"
      showgrid="true"
      inkscape:zoom="9.5152868"
-     inkscape:cx="45.3673"
-     inkscape:cy="36.629672"
+     inkscape:cx="65.908857"
+     inkscape:cy="25.243661"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg202"
      inkscape:document-rotation="0">
@@ -406,10 +406,10 @@
      id="topleft"
      transform="translate(19,-904.36219)">
     <path
+       id="rect4159"
        style="opacity:0.6;fill:#292929;fill-opacity:1;stroke:none;stroke-width:2"
-       d="M 38 6 C 34.676 6 32 8.676 32 12 L 32 18 L 44 18 L 44 6 L 38 6 z "
-       transform="translate(-19,904.36219)"
-       id="rect4159" />
+       d="M 32 6 L 32 12 L 32 18 L 44 18 L 44 6 L 38 6 L 32 6 z "
+       transform="translate(-19,904.36219)" />
   </g>
   <g
      id="bottom"
@@ -646,10 +646,10 @@
      id="mask-topleft"
      transform="matrix(1.1,0,0,1.1,102.7,-995.39838)">
     <path
+       id="path4277"
        style="opacity:0.97000002;fill:#000000;fill-opacity:1;stroke-width:2.20000029"
-       d="M 124 6 C 120.122 6 117 9.122 117 13 L 117 17 L 128 17 L 128 6 L 124 6 z "
-       transform="matrix(0.90909091,0,0,0.90909091,-93.363636,904.90762)"
-       id="path4277" />
+       d="M 117 6 L 117 13 L 117 17 L 128 17 L 128 6 L 124 6 L 117 6 z "
+       transform="matrix(0.90909091,0,0,0.90909091,-93.363636,904.90762)" />
   </g>
   <g
      id="mask-bottom"

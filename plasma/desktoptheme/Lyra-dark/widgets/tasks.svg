@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#969696"
+     pagecolor="#323232"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -36,18 +36,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="941"
+     inkscape:window-height="978"
      id="namedview717"
      showgrid="false"
-     inkscape:zoom="4.6944034"
-     inkscape:cx="33.058267"
-     inkscape:cy="77.505477"
+     inkscape:zoom="18.777614"
+     inkscape:cx="54.835863"
+     inkscape:cy="114.58438"
      inkscape:window-x="0"
-     inkscape:window-y="37"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg2"
-     inkscape:document-rotation="0"
-     inkscape:pagecheckerboard="true" />
+     inkscape:document-rotation="0" />
   <defs
      id="null">
     <style
@@ -290,7 +289,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-7"
        class="ColorScheme-ButtonHover"
@@ -298,7 +297,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-3-2-72"
        x="1"
@@ -316,7 +315,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-50"
        class="ColorScheme-ButtonHover"
@@ -324,7 +323,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-5-6"
        x="34"
@@ -342,7 +341,7 @@
        y="67"
        width="26"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-top">
@@ -353,7 +352,7 @@
        y="65"
        width="26"
        height="2"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-4"
        class="ColorScheme-ButtonHover"
@@ -361,7 +360,7 @@
        y="64"
        width="26"
        height="1"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-topleft">
@@ -379,7 +378,7 @@
        y="64"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-topright">
@@ -397,7 +396,7 @@
        y="64"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-bottom">
@@ -408,7 +407,7 @@
        y="80"
        width="26"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-05"
        class="ColorScheme-ButtonHover"
@@ -416,7 +415,7 @@
        y="82"
        width="26"
        height="1"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="north-hover-bottomleft">
@@ -434,11 +433,11 @@
        y="80"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <path
        id="path3643-64"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 2,80 0,2 0,1 3,0 0,-1 -2,0 0,-2 z" />
   </g>
   <g
@@ -457,11 +456,11 @@
        y="80"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-2"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 31,83 2,0 1,0 0,-3 -1,0 0,2 -2,0 z" />
   </g>
   <g
@@ -651,7 +650,7 @@
        y="25"
        width="2"
        height="13"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-9-0"
        class="ColorScheme-ButtonFocus"
@@ -659,7 +658,7 @@
        y="25"
        width="1"
        height="13"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-3-2-7-1"
        x="37"
@@ -677,7 +676,7 @@
        y="25"
        width="2"
        height="13"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-5-6"
        class="ColorScheme-ButtonFocus"
@@ -685,7 +684,7 @@
        y="25"
        width="1"
        height="13"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-5-3-6"
        x="70"
@@ -703,7 +702,7 @@
        y="25"
        width="26"
        height="13"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="focus-bottom">
@@ -769,7 +768,7 @@
        y="23"
        width="26"
        height="2"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-7-0"
        class="ColorScheme-ButtonFocus"
@@ -777,7 +776,7 @@
        y="22"
        width="26"
        height="1"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="focus-topleft">
@@ -795,7 +794,7 @@
        y="22"
        width="3"
        height="3"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="focus-topright">
@@ -813,7 +812,7 @@
        y="22"
        width="3"
        height="3"
-       style="opacity:0.00319998;fill:currentColor;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-left">
@@ -824,7 +823,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-7-4"
        class="ColorScheme-ButtonHover"
@@ -832,7 +831,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-3-2-72-8"
        x="37"
@@ -850,7 +849,7 @@
        y="67"
        width="2"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-50-5"
        class="ColorScheme-ButtonHover"
@@ -858,7 +857,7 @@
        y="67"
        width="1"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4951-5-6-1"
        x="70"
@@ -876,7 +875,7 @@
        y="67"
        width="26"
        height="13"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-bottom">
@@ -942,7 +941,7 @@
        y="65"
        width="26"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-05-0"
        class="ColorScheme-ButtonHover"
@@ -950,7 +949,7 @@
        y="64"
        width="26"
        height="1"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="hover-topleft">
@@ -968,11 +967,11 @@
        y="65"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <path
        id="path3643-64-2"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none"
        d="m 38,67 0,-2 0,-1 3,0 0,1 -2,0 0,2 z" />
   </g>
   <g
@@ -991,11 +990,11 @@
        y="65"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-2-6"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.25;fill:#197d91;fill-opacity:1;stroke:none"
        d="m 67,64 2,0 1,0 0,3 -1,0 0,-2 -2,0 z" />
   </g>
   <g
@@ -1363,7 +1362,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-9-0-6-5"
        class="ColorScheme-ButtonHover"
@@ -1371,7 +1370,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-right">
@@ -1382,7 +1381,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-5-6-8-5"
        class="ColorScheme-ButtonHover"
@@ -1390,7 +1389,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-center">
@@ -1401,7 +1400,7 @@
        y="68"
        width="28"
        height="11"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-bottom">
@@ -1419,7 +1418,7 @@
        y="79"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-9-0-6-2"
        class="ColorScheme-ButtonHover"
@@ -1427,7 +1426,7 @@
        y="81"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-topright">
@@ -1445,7 +1444,7 @@
        y="65"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="east-hover-bottomright">
@@ -1456,7 +1455,7 @@
        y="79"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-0"
        x="104"
@@ -1474,7 +1473,7 @@
        y="66"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-7-0-9-5"
        class="ColorScheme-ButtonHover"
@@ -1482,7 +1481,7 @@
        y="65"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-9"
        x="76"
@@ -1507,11 +1506,11 @@
        y="66"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <path
        id="path3643-1-0-7-4"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 73,68 0,-2 0,-1 3,0 0,1 -2,0 0,2 z" />
   </g>
   <g
@@ -1530,11 +1529,11 @@
        y="79"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-3-5-7-5"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 76,82 -2,0 -1,0 0,-3 1,0 0,2 2,0 z" />
   </g>
   <g
@@ -1902,7 +1901,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-9-2-9-0-6-5-6"
        class="ColorScheme-ButtonHover"
@@ -1910,7 +1909,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-left">
@@ -1921,7 +1920,7 @@
        y="68"
        width="2"
        height="11"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4949-5-5-6-8-5-7"
        class="ColorScheme-ButtonHover"
@@ -1929,7 +1928,7 @@
        y="68"
        width="1"
        height="11"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-center">
@@ -1940,7 +1939,7 @@
        y="68"
        width="28"
        height="11"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-bottom">
@@ -1958,7 +1957,7 @@
        y="79"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-9-0-6-2-0"
        class="ColorScheme-ButtonHover"
@@ -1966,7 +1965,7 @@
        y="81"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-topleft">
@@ -1984,7 +1983,7 @@
        y="65"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="west-hover-bottomleft">
@@ -1995,7 +1994,7 @@
        y="79"
        width="3"
        height="3"
-       style="opacity:0.98999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.98999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-3-0-1"
        x="109.214"
@@ -2013,7 +2012,7 @@
        y="66"
        width="28"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-0-5-7-0-9-5-1"
        class="ColorScheme-ButtonHover"
@@ -2021,7 +2020,7 @@
        y="65"
        width="28"
        height="1"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <rect
        id="rect4369-7-5-0-5-9-7-0-5-1-0-2-0-9-9-6"
        x="112"
@@ -2046,11 +2045,11 @@
        y="66"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <path
        id="path3643-1-0-7-4-9"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 143,68 0,-2 0,-1 -3,0 0,1 2,0 0,2 z" />
   </g>
   <g
@@ -2069,11 +2068,11 @@
        y="79"
        width="2"
        height="2"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none" />
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none" />
     <path
        id="path3643-6-3-5-7-5-7"
        class="ColorScheme-ButtonHover"
-       style="opacity:0.33999999;fill:#23afc8;fill-opacity:1;stroke:none"
+       style="opacity:0.33999999;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 140,82 2,0 1,0 0,-3 -1,0 0,2 -2,0 z" />
   </g>
   <g
@@ -3246,7 +3245,7 @@
        y="122"
        width="26"
        height="2"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:#197d91;fill-opacity:1;stroke:none;opacity:0.35" />
     <rect
        id="rect4999-2-3"
        class="ColorScheme-Text"
@@ -3254,7 +3253,7 @@
        y="124"
        width="26"
        height="1"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:#197d91;fill-opacity:1;stroke:none;opacity:0.35" />
   </g>
   <g
      id="minimized-bottomleft">
@@ -3272,7 +3271,7 @@
        y="122"
        width="3"
        height="3"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:#23afc8;fill-opacity:1;stroke:none;opacity:0.001" />
   </g>
   <g
      id="minimized-bottomright">
@@ -3290,7 +3289,7 @@
        y="122"
        width="3"
        height="3"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:#23afc8;fill-opacity:1;stroke:none;opacity:0.001" />
   </g>
   <g
      id="minimized-top">
@@ -4004,7 +4003,7 @@
        y="59"
        width="26"
        height="2"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:#23afc8;fill-opacity:1;stroke:none" />
     <rect
        id="rect4999-2-1-0"
        class="ColorScheme-Text"
@@ -4012,7 +4011,7 @@
        y="61"
        width="26"
        height="1"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:#23afc8;fill-opacity:1;stroke:none" />
   </g>
   <g
      id="normal-bottomleft">
@@ -4030,7 +4029,7 @@
        y="59"
        width="3"
        height="3"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none;opacity:0.001" />
   </g>
   <g
      id="normal-bottomright">
@@ -4048,7 +4047,7 @@
        y="59"
        width="3"
        height="3.000001"
-       style="fill:currentColor;fill-opacity:0.16000001;stroke:none" />
+       style="fill:currentColor;fill-opacity:0.16000001;stroke:none;opacity:0.001" />
   </g>
   <g
      id="normal-top">

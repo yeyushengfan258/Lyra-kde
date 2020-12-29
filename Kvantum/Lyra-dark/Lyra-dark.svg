@@ -31,18 +31,18 @@
      inkscape:snap-global="true"
      inkscape:current-layer="svg1604"
      inkscape:window-maximized="1"
-     inkscape:window-y="37"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="598.21006"
-     inkscape:cx="193.85814"
-     inkscape:zoom="23.857965"
+     inkscape:cy="597.64473"
+     inkscape:cx="182.44081"
+     inkscape:zoom="16.870129"
      inkscape:guide-bbox="true"
      showguides="false"
      inkscape:snap-smooth-nodes="true"
      inkscape:snap-midpoints="true"
      showgrid="true"
      id="namedview1106"
-     inkscape:window-height="941"
+     inkscape:window-height="985"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -1102,11 +1102,11 @@
        height="30"
        width="2"
        id="rect118"
-       style="fill:#3e3e3e;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <path
        d="m 272,1170 0,30 1,0 0,-30 z"
        id="path120"
-       style="fill:#3e3e3e;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <path
        d="m 270,1170 0,30 1,0 0,-30 z"
        id="path122"
@@ -1119,11 +1119,11 @@
        transform="translate(-35.5,-5)"
        d="m 308.5,1173 -2,0 0,2 2,0 z"
        id="path125"
-       style="fill:#3e3e3e;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <path
        d="m 273,1169 -1,0 0,1 1,0 z"
        id="path127"
-       style="fill:#3e3e3e;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <path
        d="m 273,1167 -3,0 0,3 1,0 c 0,-1.125 0.875,-2 2,-2 z"
        id="path129"
@@ -1883,11 +1883,11 @@
        height="30"
        width="2"
        id="rect353"
-       style="fill:#3e3e3e;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <path
        d="m 272,1170 0,30 1,0 0,-30 z"
        id="path355"
-       style="fill:#3e3e3e;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <path
        d="m 270,1170 0,30 1,0 0,-30 z"
        id="path357"
@@ -1899,12 +1899,12 @@
     <path
        d="m 308.5,1173 -2,0 0,2 2,0 z"
        id="path360"
-       style="fill:#3e3e3e;fill-opacity:1"
+       style="fill:#343434;fill-opacity:1"
        transform="translate(-35.5,-5)" />
     <path
        d="m 273,1169 -1,0 0,1 1,0 z"
        id="path362"
-       style="fill:#3e3e3e;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <path
        d="m 273,1167 -3,0 0,3 1,0 c 0,-1.125 0.875,-2 2,-2 z"
        id="path364"
@@ -4502,7 +4502,7 @@
      d="m 98,115 h -6 v 6 h 6 z"
      id="header-normal-topleft" />
   <path
-     style="fill:#ffffff"
+     style="fill:#23afc8;fill-opacity:1"
      d="m 78,110 v -6 h -6 v 6 z"
      id="header-normal" />
   <path
@@ -4787,7 +4787,7 @@
        style="fill:#323232;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#000000;stroke-width:0.44721359;opacity:0.15"
+       style="fill:#000000;stroke-width:0.44721359;opacity:0.35"
        id="path2300"
        d="m 9,73 v 1 h 26 v -1 z" />
   </g>
@@ -4803,7 +4803,7 @@
        style="fill:#323232;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#000000;stroke-width:0.44721359;opacity:0.15"
+       style="fill:#000000;stroke-width:0.44721359;opacity:0.35"
        id="path2291"
        d="m 9,36 v 1 h 26 v -1 z" />
   </g>
@@ -4819,7 +4819,7 @@
        style="fill:#323232;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#000000;stroke-width:0.44721359;opacity:0.15"
+       style="fill:#000000;stroke-width:0.44721359;opacity:0.35"
        id="path2293"
        d="M 3,42 V 68 H 4 V 42 Z" />
   </g>
@@ -4835,7 +4835,7 @@
        style="fill:#323232;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#000000;stroke-width:0.44721359;opacity:0.15"
+       style="fill:#000000;stroke-width:0.44721359;opacity:0.35"
        id="path2302"
        d="m 40,42 v 26 h 1 V 42 Z" />
   </g>
@@ -5229,14 +5229,14 @@
        id="rect1509" />
   </g>
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1"
+     style="opacity:1;fill:#343434;fill-opacity:1"
      y="864"
      x="365"
      height="20"
      width="20"
      id="menubar-normal" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1"
+     style="opacity:1;fill:#343434;fill-opacity:1"
      transform="rotate(90)"
      y="-365"
      x="864"
@@ -5244,7 +5244,7 @@
      width="20"
      id="menubar-normal-left" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1"
+     style="opacity:1;fill:#343434;fill-opacity:1"
      transform="rotate(90)"
      y="-365"
      x="859"
@@ -5252,14 +5252,14 @@
      width="5"
      id="menubar-normal-topleft" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1"
+     style="opacity:1;fill:#343434;fill-opacity:1"
      y="859"
      x="365"
      height="5"
      width="20"
      id="menubar-normal-top" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1"
+     style="opacity:1;fill:#343434;fill-opacity:1"
      transform="rotate(90)"
      y="-390"
      x="864"
@@ -5267,7 +5267,7 @@
      width="20"
      id="menubar-normal-right" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1"
+     style="opacity:1;fill:#343434;fill-opacity:1"
      transform="rotate(90)"
      y="-390"
      x="859"
@@ -5284,7 +5284,7 @@
        height="1"
        width="5"
        id="rect1535"
-       style="fill:#2a2a2a;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <g
        transform="matrix(0.25,0,0,1,223.75,0)"
        id="menubar-normal-bottomleft2">
@@ -5304,7 +5304,7 @@
        height="1"
        width="5"
        id="rect1541"
-       style="fill:#2a2a2a;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <g
        style="fill:#b6b6b6"
        transform="matrix(0.25,0,0,1,248.75,0)"
@@ -5325,7 +5325,7 @@
        height="1"
        width="20"
        id="rect1547"
-       style="fill:#2a2a2a;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <rect
        y="618"
        x="305"
@@ -5528,7 +5528,7 @@
     <path
        id="path2286"
        d="M 5.4003906 36 C 4.2003906 36 3 37.200391 3 38.400391 L 3 42 L 4 42 L 4 39 C 4 38 5 37 6 37 L 9 37 L 9 36 L 5.4003906 36 z "
-       style="fill:#000000;stroke-width:1.20000005;opacity:0.15" />
+       style="fill:#000000;stroke-width:1.20000005;opacity:0.35" />
     <path
        sodipodi:nodetypes="sscccs"
        inkscape:connector-curvature="0"
@@ -5566,7 +5566,7 @@
        id="path2295"
        transform="matrix(1,0,0,-1,0,110)"
        d="M 3 68 L 3 71.599609 C 3 72.799609 4.2003906 74 5.4003906 74 L 9 74 L 9 73 L 6 73 C 5 73 4 72 4 71 L 4 68 L 3 68 z "
-       style="fill:#000000;stroke-width:1.20000005;opacity:0.15" />
+       style="fill:#000000;stroke-width:1.20000005;opacity:0.35" />
     <path
        style="fill:#323232;fill-opacity:1"
        id="path1942"
@@ -6372,14 +6372,14 @@
     </g>
   </g>
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#343434;fill-opacity:1;stroke-width:1"
      y="864"
      x="400"
      height="20"
      width="20"
      id="menubar-normal-inactive" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#343434;fill-opacity:1;stroke-width:1"
      transform="rotate(90)"
      y="-400"
      x="864"
@@ -6387,7 +6387,7 @@
      width="20"
      id="menubar-normal-inactive-left" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#343434;fill-opacity:1;stroke-width:1"
      transform="rotate(90)"
      y="-400"
      x="859"
@@ -6395,14 +6395,14 @@
      width="5"
      id="menubar-normal-inactive-topleft" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#343434;fill-opacity:1;stroke-width:1"
      y="859"
      x="400"
      height="5"
      width="20"
      id="menubar-normal-inactive-top" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#343434;fill-opacity:1;stroke-width:1"
      transform="rotate(90)"
      y="-425.00003"
      x="864"
@@ -6410,7 +6410,7 @@
      width="20"
      id="menubar-normal-inactive-right" />
   <rect
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#343434;fill-opacity:1;stroke-width:1"
      transform="rotate(90)"
      y="-425.00003"
      x="859"
@@ -6427,7 +6427,7 @@
        height="1"
        width="5"
        id="rect1535-1"
-       style="fill:#2a2a2a;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <g
        transform="matrix(0.25,0,0,1,223.75,0)"
        id="menubar-normal-inactive-bottomleft2">
@@ -6448,7 +6448,7 @@
        height="1"
        width="5"
        id="rect1541-1"
-       style="fill:#2a2a2a;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <g
        style="fill:#b6b6b6"
        transform="matrix(0.25,0,0,1,248.75,0)"
@@ -6470,7 +6470,7 @@
        height="1"
        width="20"
        id="rect1547-6"
-       style="fill:#2a2a2a;fill-opacity:1" />
+       style="fill:#343434;fill-opacity:1" />
     <rect
        y="618"
        x="305"
@@ -6482,12 +6482,12 @@
   <path
      d="m 360,890 h 30 v 30 h -30 z"
      id="window-normal"
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+     style="opacity:1;fill:#343434;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
      inkscape:connector-curvature="0" />
   <path
      d="m 392,890 h 30 v 30 h -30 z"
      id="window-normal-inactive"
-     style="opacity:1;fill:#2a2a2a;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+     style="opacity:1;fill:#343434;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
      inkscape:connector-curvature="0" />
   <path
      id="tooltip-normal"
@@ -7295,7 +7295,7 @@
        ry="0" />
   </g>
   <path
-     style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+     style="opacity:1;fill:#1e98ae;fill-opacity:1"
      d="m 194,595 h 8 v 8 h -8 z"
      id="menuitem-normal" />
   <g
@@ -7303,7 +7303,7 @@
      transform="translate(161,-385)">
     <path
        id="path2119"
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        d="m 29,976 v 4 h 4 v -4 z" />
     <path
        id="path2121"
@@ -7314,39 +7314,27 @@
      id="menuitem-normal-left"
      transform="translate(161,-385)">
     <rect
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        y="980"
        x="29"
        height="8"
        width="4"
        id="rect2125" />
-    <rect
-       style="fill:#23afc8;fill-opacity:1;stroke:none;stroke-width:2.82843;stroke-linecap:round;opacity:0.001"
-       id="rect2127"
-       width="1"
-       height="8"
-       x="29"
-       y="980"
-       ry="0" />
   </g>
   <g
      id="menuitem-normal-bottomleft"
      transform="translate(161,-385)">
     <path
        id="path2131"
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        d="m 29,988 v 4 h 4 v -4 z" />
-    <path
-       id="path2133"
-       style="fill:#23afc8;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;opacity:0.001"
-       d="m 29,988 v 4 h 1 3 v -1 h -3 v -3 z" />
   </g>
   <g
      id="menuitem-normal-topright"
      transform="translate(161,-385)">
     <path
        id="path2137"
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        d="m 41,976 v 4 h 4 v -4 z" />
     <path
        id="path2139"
@@ -7357,7 +7345,7 @@
      id="menuitem-normal-top"
      transform="translate(161,-385)">
     <rect
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        y="976"
        x="33"
        height="4"
@@ -7376,27 +7364,19 @@
      id="menuitem-normal-right"
      transform="translate(161,-385)">
     <rect
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        y="980"
        x="41"
        height="8"
        width="4"
        id="rect2149" />
-    <rect
-       style="fill:#23afc8;fill-opacity:1;stroke:none;stroke-width:2.82843;stroke-linecap:round;opacity:0.001"
-       id="rect2151"
-       width="1"
-       height="8"
-       x="44"
-       y="980"
-       ry="0" />
   </g>
   <g
      id="menuitem-normal-bottomright"
      transform="translate(161,-385)">
     <path
        id="path2156"
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        d="m 41,988 v 4 h 4 v -4 z" />
     <path
        id="path2158"
@@ -7407,14 +7387,14 @@
      id="menuitem-normal-bottom"
      transform="translate(161,-385)">
     <rect
-       style="opacity:0.3;fill:#23afc8;fill-opacity:1"
+       style="opacity:1;fill:#1e98ae;fill-opacity:1"
        y="988"
        x="33"
        height="4"
        width="8"
        id="rect2162" />
     <rect
-       style="fill:#23afc8;fill-opacity:1;stroke:none;stroke-width:2.82843;stroke-linecap:round;opacity:0.001"
+       style="fill:#000000;fill-opacity:0;stroke:none;stroke-width:2.82843;stroke-linecap:round;opacity:1"
        id="rect2164"
        width="8"
        height="1"
@@ -7422,4 +7402,8 @@
        y="991"
        ry="0" />
   </g>
+  <g
+     id="g2150"
+     transform="matrix(0.25,0,0,1,194.75,-385)"
+     style="fill:#23afc8;fill-opacity:1" />
 </svg>

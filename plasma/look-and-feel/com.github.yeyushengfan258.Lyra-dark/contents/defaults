@@ -2,7 +2,7 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=Lyra-dark
+ColorScheme=LyraDark
 
 [kdeglobals][Icons]
 Theme=Lyra
@@ -17,4 +17,4 @@ library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Lyra-dark
 
 [kcminputrc][Mouse]
-cursorTheme=Future-dark_cursors
+cursorTheme=breeze_cursors

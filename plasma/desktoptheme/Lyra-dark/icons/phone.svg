@@ -106,7 +106,7 @@
        ry="1"
        fill="#dedede"
        opacity=".25"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="path15"
        d="m0 0h22v22h-22z"
@@ -117,14 +117,14 @@
        d="m7 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"
        fill="#dedede"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="rect844"
        d="m8.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z"
        fill="#dedede"
        opacity=".5"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="16-16-phone">
@@ -133,7 +133,7 @@
        d="m5 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z"
        fill="#dedede"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect874"
        x="4"
@@ -144,7 +144,7 @@
        ry="1"
        fill="#dedede"
        opacity=".25"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect10"
        y="26"
@@ -162,14 +162,14 @@
        rx="1"
        ry="1"
        fill="#dedede"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="rect884"
        d="m6.6375 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z"
        fill="#dedede"
        opacity=".5"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="phone">
@@ -178,7 +178,7 @@
        d="m10-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z"
        fill="#dedede"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect896"
        x="9"
@@ -189,7 +189,7 @@
        ry="1"
        fill="#dedede"
        opacity=".25"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect5"
        y="-34"
@@ -207,7 +207,7 @@
        rx="1"
        ry="1"
        fill="#dedede"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect905"
        x="12"
@@ -218,7 +218,7 @@
        ry="1"
        fill="#dedede"
        opacity=".5"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
   </g>
   <g
      id="phone-battery">
@@ -227,7 +227,7 @@
        d="m47-31c-1.108 0-2 0.892-2 2v22c0 1.108 0.892 2 2 2h12c1.108 0 2-0.892 2-2v-22c0-1.108-0.892-2-2-2zm0 1h12c0.554 0 1 0.446 1 1v22c0 0.554-0.446 1-1 1h-12c-0.554 0-1-0.446-1-1v-22c0-0.554 0.446-1 1-1z"
        fill="#dedede"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect899"
        x="46"
@@ -238,7 +238,7 @@
        ry="1"
        fill="#dedede"
        opacity=".25"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect901"
        x="37"
@@ -257,7 +257,7 @@
        rx="1"
        ry="1"
        fill="#dedede"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect906"
        x="49"
@@ -268,7 +268,7 @@
        ry="1"
        fill="#dedede"
        opacity=".5"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <g
        id="g4600"
        transform="rotate(-90,-121.98,269.52)">
@@ -293,7 +293,7 @@
        ry="1"
        fill="#dedede"
        opacity=".25"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="path877"
        d="m37 0h22v22h-22z"
@@ -304,14 +304,14 @@
        d="m44 1c-1.108 0-2 0.892-2 2v16c0 1.108 0.892 2 2 2h8c1.108 0 2-0.892 2-2v-16c0-1.108-0.892-2-2-2h-6zm0 1h1c0 0.554 0.446 1 1 1h4c0.554 0 1-0.446 1-1h1c0.554 0 1 0.446 1 1v16c0 0.554-0.446 1-1 1h-8c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"
        fill="#dedede"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="path881"
        d="m45.5 18h5c0.277 0 0.5 0.223 0.5 0.5s-0.223 0.5-0.5 0.5h-5c-0.277 0-0.5-0.223-0.5-0.5s0.223-0.5 0.5-0.5z"
        fill="#dedede"
        opacity=".5"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="path4600"
        d="m45 10a3 3 0 0 0 2 2.826v1.174h2v-1.176a3 3 0 0 0 2-2.824h-1v-2h-1v2h-2v-2h-1v2z"
@@ -326,7 +326,7 @@
        d="m42 27c-1.108 0-2 0.892-2 2v10c0 1.108 0.892 2 2 2h6c1.108 0 2-0.892 2-2v-10c0-1.108-0.892-2-2-2zm0 1h6c0.554 0 1 0.446 1 1v10c0 0.554-0.446 1-1 1h-6c-0.554 0-1-0.446-1-1v-10c0-0.554 0.446-1 1-1z"
        fill="#dedede"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect887"
        x="41"
@@ -337,7 +337,7 @@
        ry="1"
        fill="#dedede"
        opacity=".25"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <rect
        id="rect889"
        x="37"
@@ -356,14 +356,14 @@
        rx="1"
        ry="1"
        fill="#dedede"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="path893"
        d="m43.637 38h2.7251c0.35315 0 0.63746 0.223 0.63746 0.5s-0.28431 0.5-0.63746 0.5h-2.7251c-0.35315 0-0.63746-0.223-0.63746-0.5s0.28431-0.5 0.63746-0.5z"
        fill="#dedede"
        opacity=".5"
        inkscape:connector-curvature="0"
-       style="fill:#eaeaea;fill-opacity:1" />
+       style="fill:#fbfbfb;fill-opacity:1" />
     <path
        id="path936"
        d="m42 33a3 3 0 0 0 2 2.826v1.174h2v-1.176a3 3 0 0 0 2-2.824h-1v-2h-1v2h-2v-2h-1v2z"
