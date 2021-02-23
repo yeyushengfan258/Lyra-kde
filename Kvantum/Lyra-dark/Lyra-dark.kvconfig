@@ -71,6 +71,7 @@ dialog_button_layout=0
 intensity=1.00
 saturation=1.00
 shadowless_popup=false
+drag_from_buttons=false
 
 [GeneralColors]
 window.color=#2a2a2a    
@@ -81,7 +82,7 @@ light.color=#535353
 mid.light.color=#474747
 dark.color=#c8c8c8
 mid.color=#e1e1e196
-highlight.color=#4285f4
+highlight.color=#23afc8
 inactive.highlight.color=#3a474e
 text.color=#dfdfdf
 window.text.color=#dfdfdf
@@ -95,7 +96,7 @@ progress.indicator.text.color=#dfdfdf
 
 [Hacks]
 transparent_ktitle_label=true
-transparent_dolphin_view=false
+transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=true

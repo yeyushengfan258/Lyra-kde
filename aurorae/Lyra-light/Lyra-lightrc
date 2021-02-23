@@ -1,12 +1,12 @@
 [General]
 ActiveTextColor=225,225,225,255
-ActiveTextColor=255,255,255
+ActiveTextColor=50,50,50
 InactiveTextColor=120,120,120,225
 TitleAlignment=Center
 TitleVerticalAlignment=Center
 UseTextShadow=true
 ActiveTextShadowColor=255,255,255,255
-InactiveTextColor=255,255,255,50
+InactiveTextColor=50,50,50,50
 InactiveTextShadowColor=255,255,255,255
 TextShadowOffsetX=0
 TextShadowOffsetY=1

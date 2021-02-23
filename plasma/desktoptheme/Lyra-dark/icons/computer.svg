@@ -7,12 +7,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
    sodipodi:docname="computer.svg"
    id="svg60"
    version="1.1"
    height="32"
-   width="32">
+   width="32"
+   inkscape:export-filename="/home/rain/Documents/Lyra主题配图/配置图标/3.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <metadata
      id="metadata64">
     <rdf:RDF>
@@ -28,26 +31,26 @@
   <sodipodi:namedview
      inkscape:document-rotation="0"
      inkscape:snap-others="false"
-     inkscape:object-nodes="false"
+     inkscape:object-nodes="true"
      inkscape:snap-midpoints="false"
-     inkscape:snap-smooth-nodes="false"
+     inkscape:snap-smooth-nodes="true"
      inkscape:snap-bbox-midpoints="true"
-     inkscape:snap-intersection-paths="false"
+     inkscape:snap-intersection-paths="true"
      inkscape:current-layer="svg60"
      inkscape:window-maximized="1"
-     inkscape:window-y="37"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="-9.3480883"
-     inkscape:cx="2.8613566"
-     inkscape:zoom="5.6568543"
-     inkscape:object-paths="false"
+     inkscape:cy="17.382677"
+     inkscape:cx="25.032883"
+     inkscape:zoom="11.313708"
+     inkscape:object-paths="true"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:bbox-nodes="true"
      inkscape:snap-bbox="true"
      showgrid="true"
      id="namedview62"
-     inkscape:window-height="941"
+     inkscape:window-height="985"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -179,70 +182,6 @@
     </linearGradient>
   </defs>
   <g
-     id="computer">
-    <rect
-       id="rect38-7"
-       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
-       ry="0"
-       rx="0"
-       height="32"
-       width="32"
-       y="-3.0004884e-07"
-       x="0" />
-    <g
-       id="g909"
-       transform="translate(32,-2)">
-      <rect
-         style="fill:#0a0a0a;stroke-width:3.2249;stroke-linecap:round"
-         id="rect901"
-         width="26"
-         height="18"
-         x="-29"
-         y="6"
-         ry="0" />
-      <rect
-         style="fill:#23afc8;fill-opacity:1;stroke-width:1.88562;stroke-linecap:round"
-         id="rect905"
-         width="16"
-         height="3"
-         x="-24"
-         y="27"
-         ry="0" />
-    </g>
-  </g>
-  <g
-     id="computer-laptop">
-    <rect
-       x="48"
-       y="-1.4901161e-06"
-       width="32"
-       height="32"
-       rx="0"
-       ry="0"
-       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
-       id="rect993" />
-    <g
-       id="g921"
-       transform="translate(-41,-2)">
-      <rect
-         style="fill:#0a0a0a;stroke-width:3.2249;stroke-linecap:round"
-         id="rect911"
-         width="25.999996"
-         height="18"
-         x="92"
-         y="6"
-         ry="0" />
-      <rect
-         style="fill:#23afc8;fill-opacity:1;stroke-width:2.4037;stroke-linecap:round"
-         id="rect913"
-         width="26"
-         height="3"
-         x="92"
-         y="27"
-         ry="0" />
-    </g>
-  </g>
-  <g
      id="22-22-computer">
     <rect
        height="22"
@@ -270,45 +209,6 @@
          height="2"
          x="-16"
          y="56"
-         ry="0" />
-    </g>
-  </g>
-  <g
-     id="16-16-computer">
-    <rect
-       height="16"
-       width="16"
-       y="65.991524"
-       x="-24"
-       transform="scale(-1,1)"
-       id="rect16"
-       style="color:#bebebe;fill:none" />
-    <rect
-       height="16"
-       width="16"
-       y="65.991524"
-       x="-24"
-       transform="scale(-1,1)"
-       id="rect18"
-       style="color:#bebebe;opacity:0;stroke-width:3" />
-    <g
-       id="g998"
-       transform="translate(22)">
-      <rect
-         style="fill:#fefefe;fill-opacity:1;stroke-width:1.76384;stroke-linecap:round"
-         id="rect974"
-         width="14"
-         height="10"
-         x="-13"
-         y="68"
-         ry="0" />
-      <rect
-         style="fill:#fefefe;fill-opacity:1;stroke-width:0.769799;stroke-linecap:round"
-         id="rect976"
-         width="8"
-         height="1"
-         x="-10"
-         y="79"
          ry="0" />
     </g>
   </g>
@@ -380,6 +280,143 @@
          x="-13"
          y="79"
          ry="0" />
+    </g>
+  </g>
+  <g
+     id="16-16-computer">
+    <rect
+       height="16"
+       width="16"
+       y="65.991524"
+       x="-24"
+       transform="scale(-1,1)"
+       id="rect16"
+       style="color:#bebebe;fill:none" />
+    <rect
+       height="16"
+       width="16"
+       y="65.991524"
+       x="-24"
+       transform="scale(-1,1)"
+       id="rect18"
+       style="color:#bebebe;opacity:0;stroke-width:3" />
+    <g
+       id="g906"
+       transform="matrix(0.53846154,0,0,0.53846154,-39.730769,65.376139)"
+       style="fill:#ffffff;fill-opacity:1">
+      <path
+         id="path896"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 90.5,4 v 16 h 19 l 7,-7 V 4 Z m 1,1 h 24 v 7.478516 L 109.0332,19 H 91.5 Z" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect898"
+         width="1"
+         height="12"
+         x="92.5"
+         y="6" />
+      <path
+         id="path900"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 94.5,24 -4,4 h 8 l 4,-4 z m 0.591797,1 h 4.886723 l -2,2 h -4.886723 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="path902"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 105,24 -4,4 h 11.5 l 4,-4 z m 0.5918,1 h 8.38672 l -2,2 h -8.38672 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="path904"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.6189;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 94.5,6 h 20 l -9,12 h -11 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+  <g
+     id="computer">
+    <rect
+       x="0"
+       y="-1.4901161e-06"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0"
+       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
+       id="rect1046" />
+    <g
+       id="g915"
+       transform="translate(-87.5)"
+       style="fill:#ff00ff;fill-opacity:1">
+      <path
+         id="path905"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 90.5,4 v 16 h 19 l 7,-7 V 4 Z m 1,1 h 24 v 7.478516 L 109.0332,19 H 91.5 Z" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect907"
+         width="1"
+         height="12"
+         x="92.5"
+         y="6" />
+      <path
+         id="path909"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 94.5,24 -4,4 h 8 l 4,-4 z m 0.591797,1 h 4.886723 l -2,2 h -4.886723 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="path911"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 105,24 -4,4 h 11.5 l 4,-4 z m 0.5918,1 h 8.38672 l -2,2 h -8.38672 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="path913"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.6189;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 94.5,6 h 20 l -9,12 h -11 z"
+         sodipodi:nodetypes="ccccc" />
+    </g>
+  </g>
+  <g
+     id="computer-laptop"
+     transform="translate(47)">
+    <rect
+       x="0"
+       y="-1.4901161e-06"
+       width="32"
+       height="32"
+       rx="0"
+       ry="0"
+       style="opacity:0;stroke-width:2;paint-order:fill markers stroke"
+       id="rect958" />
+    <g
+       id="g970"
+       transform="translate(-87.5)"
+       style="fill:#ff00ff;fill-opacity:1">
+      <path
+         id="path960"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 90.5,4 v 16 h 19 l 7,-7 V 4 Z m 1,1 h 24 v 7.478516 L 109.0332,19 H 91.5 Z" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect962"
+         width="1"
+         height="12"
+         x="92.5"
+         y="6" />
+      <path
+         id="path964"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 94.5,24 -4,4 h 8 l 4,-4 z m 0.591797,1 h 4.886723 l -2,2 h -4.886723 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="path966"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 105,24 -4,4 h 11.5 l 4,-4 z m 0.5918,1 h 8.38672 l -2,2 h -8.38672 z"
+         sodipodi:nodetypes="cccccccccc" />
+      <path
+         id="path968"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:11.6189;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         d="m 94.5,6 h 20 l -9,12 h -11 z"
+         sodipodi:nodetypes="ccccc" />
     </g>
   </g>
 </svg>

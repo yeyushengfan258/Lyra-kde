@@ -72,17 +72,18 @@ dialog_button_layout=0
 intensity=1.00
 saturation=1.00
 shadowless_popup=false
+drag_from_buttons=false
 
 [GeneralColors]
 window.color=#fafafa
-base.color=#e6e6e6
+base.color=#fafafa
 alt.base.color=#f8f8f8
 button.color=#f2f2f2
 light.color=#ffffff
 mid.light.color=#f0f0f0
 dark.color=#c8c8c8
 mid.color=#e1e1e196
-highlight.color=#4285f4
+highlight.color=#46dcdc
 inactive.highlight.color=#4285f420
 text.color=#444444
 window.text.color=#444444
@@ -96,7 +97,7 @@ progress.indicator.text.color=#444444
 
 [Hacks]
 transparent_ktitle_label=true
-transparent_dolphin_view=false
+transparent_dolphin_view=true
 transparent_pcmanfm_sidepane=true
 blur_translucent=true
 transparent_menutitle=true
@@ -117,6 +118,8 @@ middle_click_scroll=false
 opaque_colors=false
 kinetic_scrolling=false
 scroll_jump_workaround=false
+centered_forms=false
+noninteger_translucency=false
 
 [PanelButtonCommand]
 frame=true
